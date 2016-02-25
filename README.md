@@ -1,7 +1,6 @@
 # premiers-pas-en-Java
 Deux programmes pour apprendre les bases de la programmation en java
 
-
 Exercice 1:
 
 Calculer le nombre de radiateurs nécessaires pour chauffer une pièce.
